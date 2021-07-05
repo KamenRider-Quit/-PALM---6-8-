@@ -2,6 +2,6 @@
 
 ## 项目描述
 PALM病理性近视预测基线，fork from AIStudio用户"红白黑"所公开的项目基线。
-```
+
 ## 使用方式
 在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2031445)
